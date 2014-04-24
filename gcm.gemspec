@@ -12,8 +12,6 @@ Gem::Specification.new do |s|
   s.description = %q{gcm is a service that helps developers send data from servers to their Android applications on Android devices.}
   s.license     = "MIT"
 
-  s.required_ruby_version     = '>= 1.9.3'
-
   s.rubyforge_project = "gcm"
 
   s.files         = `git ls-files`.split("\n")
